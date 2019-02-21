@@ -1,14 +1,16 @@
 # Java-Calendar-app
 
-A Calendar app that allows you to
--View calendar in day or month view
--Create a new event (one time ocurrance or regularly occuring)
--Go to a specific event
--Delete events
--Quit
+A Calendar app that allows you to <br />
+<ul>
+  <li>View calendar in day or month view</li>
+  <li>Create a new event (one time ocurrance or regularly occuring)</li>
+  <li>Go to a specific event</li>
+  <li>Delete events</li>
+  <li>Quit</li>
+</ul>
 
-ex.
-
+ex. <br /> 
+<pre>
              FEBRUARY 2019
  Su    Mo    Tu    We    Th    Fr    Sa
                                 1     2
@@ -21,3 +23,5 @@ Loading is done!
 
 Select one of the following options: 
 [V]iew by  [C]reate, [G]o to [E]vent list [D]elete  [Q]uit 
+
+</pre>
